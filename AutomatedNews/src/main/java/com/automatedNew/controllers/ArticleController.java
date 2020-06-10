@@ -1,4 +1,4 @@
-package controllers;
+package com.automatedNew.controllers;
 
 import java.io.IOException;
 
